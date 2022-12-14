@@ -1,0 +1,20 @@
+id: AB8BA98B1
+title: Toh_515-Dharani_of_Buddha's_Essence-v2
+type: translation
+pechas:
+- IC6B4BB2A
+- IA4B7C029
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-088-009
+  eft-text-version: 1.1.9 2021
+  title: Toh_515-Dharani_of_Buddha's_Essence-v2
+alignment_to_base:
+  IC6B4BB2A/CC18: 0818
+  IA4B7C029/F6FC: 0818
